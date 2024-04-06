@@ -147,6 +147,30 @@ export const specialists: Specialist[] = [
     photoPath: 'zpowolna.jpg'
   },
   {
+    slug: 'marta-bulacinska',
+    fullName: 'Marta Bułacińska',
+    title: 'mgr',
+    specialisation: 'Psychologia',
+    bio: 'Na co dzień pracuje z pacjentami w Centrum Zdrowia Psychicznego, w Centralnym Szpitalu Klinicznym Uniwersytetu Medycznego w Łodzi oraz w Wojewódzkim Zespole Zakładów Opieki Zdrowotnej Centrum Leczenia Chorób Płuc i Rehabilitacji na oddziałach: Chorób Płuc i Alergii Układu Oddechowego oraz Pulmonologii i Chemioterapii Nowotworów Płuc (szpital w Łagiewnikach). Ukończyła rekomendowane przez Polskie Towarzystwo Psychologiczne studia podyplomowe z Diagnozy psychologicznej w praktyce klinicznej na Uniwersytecie SWPS w Warszawie. Doświadczenie zdobywała w trakcie staży w Centralnym Szpitalu Klinicznym Uniwersytetu medycznego w Łodzi, na oddziale.Diagnostyczno-obserwacyjnym oraz zaburzeń afektywnych. Udzielała wsparcia i pomocy psychologicznej w Poradni Zdrowia Psychicznego Multimed. Jest członkiem Polskiego Towarzystwa Psychologicznego. Ukończyła jednolite stacjonarne studia psychologiczne na Uniwersytecie Łódzkim uzyskując tytuł magistra ze specjalnością Psychologia Zdrowia i Kliniczna. Z zaangażowaniem pogłębia swoją wiedzę i stale poszerza kompetencje. W pracy kieruje się przekonaniem, że dobra diagnoza jest kluczem do skutecznej terapii. Troszczy się o to, aby pacjent w trakcie spotkań czuł się bezpiecznie, a z gabinetu wyszedł z poczuciem bycia zrozumianym.',
+    photoPath: 'mbulacinska.jpg'
+  },
+  {
+    slug: 'lidia-okrasa',
+    fullName: 'Lidia Okrasa',
+    title: '',
+    specialisation: 'Logopedia dzieci i dorosłych',
+    bio: 'Ukończyła licencjat z logopedii z audiologią na Uniwersytecie Łódzkim. Obecnie kontynuuje naukę kierunku na stopniu magisterskim. Cechuje Ją cierpliwość i odpowiedzialność oraz dobre podejście do drugiego człowieka. Uwielbia pracować z dziećmi, jak i z dorosłymi. Posiada certyfikat umiejętności praktycznych z zakresu audiologii. Czerpie przyjemność z poszerzania swoich umiejętności i zdobywania nowej wiedzy.',
+    photoPath: 'lokrasa.jpeg'
+  },
+  {
+    slug: 'monika-okrasa',
+    fullName: 'Monika Okrasa',
+    title: 'mgr',
+    specialisation: 'Psychologia',
+    bio: 'Jestem osobą z dyplomem ukończenia studiów na kierunkach psychologia oraz pedagogika. Jako psycholog pracuje zarówno z pacjentami indywidualnymi (terapie, trening organizacji czasu wolnego), jak i grupowymi - prowadzi grupy TUS (Trening Umiejętności Społecznych). Bardzo dobrze rozumie się z dziećmi, do każdego podchodzi z empatią i zrozumieniem.',
+    photoPath: 'mokrasa.jpeg'
+  },
+  {
     slug: 'urszula-olszowka',
     fullName: 'Urszula Olszówka',
     title: '',

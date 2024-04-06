@@ -83,6 +83,36 @@ export const price_list: Price[] = [
         price: '200 zł'
     },
     {
+        service: 'mgr Marta Bułacińska: Konsultacja psychologiczna',
+        specialisation: 'Psychologia',
+        price: '180 zł'
+    },
+    {
+        service: 'mgr Marta Bułacińska: Diagnoza psychologiczna',
+        specialisation: 'Psychologia',
+        price: '600 zł'
+    },
+    {
+        service: 'mgr Marta Bułacińska: Diagnoza ADHD',
+        specialisation: 'Psychologia',
+        price: '890 zł'
+    },
+    {
+        service: 'mgr Marta Bułacińska: Diagnoza neuropsychologiczna',
+        specialisation: 'Psychologia',
+        price: '400 zł'
+    },
+    {
+        service: 'Lidia Okrasa: Konsultacja logopedyczna',
+        specialisation: 'Logopedia dzieci i dorosłych',
+        price: '130 zł'
+    },
+    {
+        service: 'mgr Monika Okrasa: Konsultacja psychologiczna',
+        specialisation: 'Psychologia',
+        price: '180 zł'
+    },
+    {
         service: 'Joga kręgosłupa 1h',
         price: '35 zł'
     },
